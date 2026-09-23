@@ -1,0 +1,14 @@
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>WCBathAutomation</Name>
+        <Assembly>WCBathAutomation\WCBathAutomation.dll</Assembly>
+        <AddInId>8A764F99-9F88-44EB-BA31-0EA9B5130BE9</AddInId>
+        <FullClassName>WCBathAutomation.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>WCBathAutomation</ContextName>
+    </ManifestSettings>
+</RevitAddIns>
